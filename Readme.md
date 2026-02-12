@@ -36,7 +36,7 @@ This example uses the [DiagramOrgChartBehavior](https://docs.devexpress.com/WPF/
 
 * [WPF Diagram - Use DiagramDataBindingBehavior to Generate a Diagram from a Collection](https://github.com/DevExpress-Examples/wpf-diagram-use-diagramdatabindingbehavior-to-generate-diagram-from-collection)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagram-use-diagramorgchartbehavior-to-generate-diagram-from-collection&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagram-use-diagramorgchartbehavior-to-generate-diagram-from-collection&~~~was_helpful=no)
 
